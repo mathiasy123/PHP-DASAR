@@ -1,0 +1,10 @@
+FOLDER KEDELAPAN INI BERISI TENTANG:
+
+1. Cara CRUD data dengan database menggunakan php
+2. Modular function untuk operasi query
+3. Cara upload file (gambar) ke database
+4. Cara login
+5. Cara membuat fitur pencarian
+6. Cara registrasi
+7. Cookie (browser) dan session (server)
+8. Paginasi (pagination)

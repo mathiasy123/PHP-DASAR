@@ -1,0 +1,3 @@
+UNTUK FUNCTION PADA PHP, BISA LIHAT SELENGKAPNYA DI:
+
+http://php.net/manual/en/funcref.php
